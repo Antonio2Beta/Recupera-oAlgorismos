@@ -1,1 +1,1 @@
-# Recupera-oAlgorismos
+# RecuperacaoAlgoritmos
