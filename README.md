@@ -1,2 +1,1 @@
 # Recupera-oAlgorismos
-Não tem
